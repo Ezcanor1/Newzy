@@ -2,4 +2,5 @@ streamlit
 nltk
 textblob
 newspaper3k
-lxml==4.9.1  # Adjust this version if needed
+lxml==4.9.1
+lxml_html_clean  # Install the html_clean module separately
