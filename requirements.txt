@@ -2,4 +2,4 @@ streamlit
 nltk
 textblob
 newspaper3k
-lxml
+lxml==4.9.1  # Adjust this version if needed
