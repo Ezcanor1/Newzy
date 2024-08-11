@@ -2,3 +2,4 @@ streamlit
 nltk
 textblob
 newspaper3k
+lxml
