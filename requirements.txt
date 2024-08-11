@@ -3,5 +3,4 @@ nltk
 textblob
 newspaper3k
 lxml
-lxml==4.9.1
-lxml_html_clean  # Install the html_clean module separately
+  # Install the html_clean module separately
